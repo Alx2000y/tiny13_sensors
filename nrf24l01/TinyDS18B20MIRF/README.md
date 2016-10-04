@@ -5,7 +5,7 @@
 #define CE  PB3
 #define CSN PB4
 
-#define DS_BIT         3 // pin 2  pullup резистор не нужен
+#define DS_BIT         3 // pin 2  pullup СЂРµР·РёСЃС‚РѕСЂ РЅРµ РЅСѓР¶РµРЅ
 
 
 nc   -|    |- VCC CE
